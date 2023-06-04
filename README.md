@@ -11,9 +11,11 @@ To reproduce the results, it is recommended to run the lab on a Google Colab env
 3. Usage
 
 ## Requirements
-You can run the code in Google Colab or
+You can run the code in **Google Colab** 
 
-To run the code and reproduce the results in Jupyter, you need the following dependencies:
+or
+
+To run the code and reproduce the results in **Jupyter**, you need the following dependencies:
 - Python (3.6 or above)
 - Jupyter Notebook
 - TensorFlow (2.x)
