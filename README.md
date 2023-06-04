@@ -1,7 +1,7 @@
 # Fast Food Image Classification
 This project focuses on the recognition and classification of fast food images using machine learning techniques. It utilizes a pre-trained model called BiT (Big Transfer), specifically the BiT ResNet50x1 architecture fine-tuned on the 'food' subtree of the ImageNet dataset. The goal is to accurately classify different categories of fast food images.
 
-The project includes a Jupyter Notebook lab that demonstrates the implementation and evaluation of the BiT model for fast food image classification. The lab can be accessed through the following link: Lab Link
+The project includes a Google Colab notebook that demonstrates the implementation and evaluation of the BiT model for fast food image classification. The lab can be accessed through the following link: [Colab nootbook](https://colab.research.google.com/drive/1MLuVmTe80iPltoUNQ6KApud-V5iwdSoh?usp=sharing)
 
 To reproduce the results, it is recommended to run the lab on a Google Colab environment. The lab provides step-by-step instructions, code snippets, and explanations to guide you through the process of training and evaluating the BiT model on the fast food dataset.
 
@@ -11,8 +11,9 @@ To reproduce the results, it is recommended to run the lab on a Google Colab env
 3. Usage
 
 ## Requirements
-To run the code and reproduce the results, you need the following dependencies:
+You can run the code in Google Colab or
 
+To run the code and reproduce the results in Jupyter, you need the following dependencies:
 - Python (3.6 or above)
 - Jupyter Notebook
 - TensorFlow (2.x)
